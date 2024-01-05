@@ -1,0 +1,94 @@
+# 20. Posloupnosti
+
+### Definice
+
+- Obecná posloupnost
+    - Konečná nebo nekonečná sada objektů, v níž záleží na pořadí a objekty se mohou opakovat
+    - Zobrazení z $\N$ do libovolné množiny
+- Číselná posloupnost (dále pouze o ní)
+    - Zobrazení z $\N$ do $\R$
+    - Funkce, jejíž definiční obor je $\N$, nebo konečná podmnožina $\N$
+
+### Zápis posloupnosti
+
+- Značení
+    - $\{ a_n\}^\infin_{n=1}$
+        - Posloupnost $a$ s “proměnou” $n$
+        - Definována pro přirozená čísla od $1$ do $\infin$
+    - $\{ b_k\}^\infin_{k=1}$
+        - Posloupnost $b$ s “proměnou” $k$
+        - Definována pro přirozená čísla od $1$ do $\infin$
+    - $\{ c_n \}^\infin_{n=1} = 2n$
+        - Posloupnost všech sudých čísel
+- Výčtem členů
+    - Vypsání všech členů posloupnosti
+    
+    - $a_n = (1,3,5,4,8) - \text{konečná posloupnost}$
+    - $b_k = (2,3,5,7,11,13,...) - \text{nekonečná posloupnost}$
+    - $a_1 = 1; \ a_2 = 3, \ a_5 = 8$
+    - $b_1=2; \ b_2 = 3; \ b_5 = 11$
+- Vzorec pro n-tý člen
+    - $\{ c_n \}
+    _{n = 1}^\infin; \ c_n = 2n$ nebo $c_n = \{ 2n \}_{n=1}^\infin$
+- Rekurentní vyjádření
+    - $c_1=2; \ c_{n+1} = c_n + 2$
+    - Faktoriál
+
+### Vlastnosti
+
+- $a_n = \{ \R \}_{n=1}^{\infin} - \text{číselná posloupnost}$
+
+- $a_n \ \text{roustoucí} \iff \forall n \isin \N:a_n < a_{n+1}$
+- $a_n \ \text{neroustoucí} \iff \forall n \isin \N:a_n \ge a_{n+1}$
+- $a_n \ \text{klesající} \iff \forall n \isin \N:a_n > a_{n+1}$
+- $a_n \ \text{neklesající} \iff \forall n \isin \N:a_n \le a_{n+1}$
+
+- $a_n \ \text{shora omezená} \iff \exists h; \ \forall n \isin \N : a_n \le h$
+- $a_n \ \text{zdola omezená} \iff \exists h; \ \forall n \isin \N : a_n \ge h$
+
+### Aritmetická posloupnost
+
+- Rozdíl dvou po sobě jdoucích členů (diference - $d$) je konstantní
+- Každý člen krom prvního je průměrem sousedních členů
+- Předpis
+    - $a_1 \isin \R- \text{první člen}$
+    - $d  \isin \R \setminus \set{0} - \text{diference}$
+    
+    - $a_{n+1} = a_n + d$
+    - $a_n=a_1+(n-1)d$
+    - $a_n=a_0+nd; \ a_0=a_1 - d$
+- Vyjádření r-tého členu z s-tého
+    - $a_r=a_s+(r-s)d$
+- Součet prvních n členů
+    - $S_n = \frac{1}{2}(a_1 + a_n)$
+
+### Geometrická posloupnost
+
+- Každý člen krom prvního je konstantním (kvocient - $q$) násobkem předchozího členu
+- Zúžení exponenciální funkce na $\N$
+- Předpis
+    - $a_1 \isin \R \setminus \set{0} - \text{první člen}$
+    - $q \isin \R^+ \setminus \set{1} - \text{kvocient}$
+    
+    - $a_{n+1}=a_n \cdot q$
+    - $a_n= a_1 \cdot q^{n-1}$
+    - $a_n=a_0 \cdot q^n; \ a_0=\frac{a_1}{q}$
+- Součet prvních n členů
+    - $S_n= a_1 \cdot \frac{q^n -1}{q - 1}$
+- Součet celé konvergující geometrické řady
+    - $|q| < 1$
+    - $S_n = \lim\limits_{n \to \infin} a_1 \cdot \frac{q^n - 1}{q - 1} = \frac{a_1}{1-q}$
+
+### Harmonická posloupnost
+
+- Převrácené hodnoty jejich členů tvoří aritmetickou posloupnost
+- Předpis
+    - $n \isin \N$
+    - $c, d  \isin \R \setminus \set{0}$
+    - $a_n = \frac{1}{cn+d}$
+- Příklad
+    - $(1, \frac{1}{2}, \frac{1}{3},  \frac{1}{4}, ...)$
+    - $\{ \frac{2}{n+1} \}_{n=1}^\infin = (1, \frac{2}{3},  \frac{2}{4}, \frac{2}{5},...)$
+- Součet vždy divergentní
+
+### Důkaz indukcí
