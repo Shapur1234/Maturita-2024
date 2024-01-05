@@ -6,4 +6,4 @@ Maturita z matematiky
 
 1.
 2.
-3. [Kombinatorika](/pages/18-Kombinatronika/_.md)
+3. [Kombinatorika](/pages/18-Kombinatorika/_.md)
