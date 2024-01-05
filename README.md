@@ -24,7 +24,7 @@ Maturita z matematiky
 17.
 18. [Kombinatorika](/pages/18-Kombinatorika/_.md)
 19.
-20.
+20. [Posloupnosti](/pages/20-Posloupnosti/_.md)
 21.
 22.
 23.
