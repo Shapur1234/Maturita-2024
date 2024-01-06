@@ -4,7 +4,7 @@ Maturita z matematiky
 
 ## Otázky
 
-0. Obecné pojmy
+0. [Obecné pojmy](./pages/0-Obecn%C3%A9%20pojmy/_.md)
 1. [Množiny a číselné obory N, Z, Q, R](./pages/1-Mnoz%CC%8Ciny%20a%20c%CC%8Ci%CC%81selne%CC%81%20obory%20N%2C%20Z%2C%20Q%2C%20R/_.md)
 2.
 3. [Přímka a rovina](./pages/3-Pr%CC%8Ci%CC%81mka%20a%20rovina/_.md)
@@ -17,15 +17,15 @@ Maturita z matematiky
 10. [Goniometrické funkce a rovnice](./pages/10-Goniometricke%CC%81%20funkce%20a%20rovnice/_.md)
 11.
 12.
-13.
+13. [Souřadnice a vektory](./pages/13-Sour%CC%8Cadnice%20a%20vektory/_.md)
 14.
-15.
+15. [Kružnice](/pages/15-Kruz%CC%8Cnice/_.md)
 16.
 17.
 18. [Kombinatorika](./pages/18-Kombinatorika/_.md)
 19.
 20. [Posloupnosti](./pages/20-Posloupnosti/_.md)
 21. [Limita posloupnosti a řady](./pages/21-Limita%20posloupnosti%20a%20r%CC%8Cady/_.md)
-22.
+22. [Limita funkce](/pages/22-Limita%20funkce/_.md)
 23.
 24.
