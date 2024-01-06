@@ -25,7 +25,7 @@ Maturita z matematiky
 18. [Kombinatorika](/pages/18-Kombinatorika/_.md)
 19.
 20. [Posloupnosti](/pages/20-Posloupnosti/_.md)
-21.
+21. [Limita posloupnosti a řady](/pages/21-Limita%20posloupnosti%20a%20r%CC%8Cady/_.md)
 22.
 23.
 24.
