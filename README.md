@@ -26,6 +26,6 @@ Maturita z matematiky
 19. Statistika a pravděpodobnosti
 20. [Posloupnosti](./pages/20-Posloupnosti/_.md)
 21. [Limita posloupnosti a řady](./pages/21-Limita%20posloupnosti%20a%20r%CC%8Cady/_.md)
-22. [Limita funkce](/pages/22-Limita%20funkce/_.md)
-23. Diferenciální počet
+22. [Limita funkce](./pages/22-Limita%20funkce/_.md)
+23. [Diferenciální počet](./pages/23-Diferenci%C3%A1ln%C3%AD%20po%C4%8Det/_.md)
 24. Integrální počet
