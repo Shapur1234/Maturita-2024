@@ -19,7 +19,7 @@ Maturita z matematiky
 12. Rotační tělesa
 13. [Souřadnice a vektory](./pages/13-Sour%CC%8Cadnice%20a%20vektory/_.md)
 14. Kuželosečky, elipsa
-15. [Kružnice](/pages/15-Kruz%CC%8Cnice/_.md)
+15. [Kružnice](./pages/15-Kruz%CC%8Cnice/_.md)
 16. Parabola a kvadratická funkce a rovnice
 17. Hyperbola a funkce lineární lomená
 18. [Kombinatorika](./pages/18-Kombinatorika/_.md)
