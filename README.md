@@ -6,7 +6,7 @@ Maturita z matematiky
 
 0. [Obecné pojmy](./pages/0-Obecn%C3%A9%20pojmy/_.md)
 1. [Množiny a číselné obory N, Z, Q, R](./pages/1-Mnoz%CC%8Ciny%20a%20c%CC%8Ci%CC%81selne%CC%81%20obory%20N%2C%20Z%2C%20Q%2C%20R/_.md)
-2. Množina komplexních čísel
+2. [Množina komplexních čísel](./pages/2-Množina%20komplexních%20čísel/_.md)
 3. [Přímka a rovina](./pages/3-Pr%CC%8Ci%CC%81mka%20a%20rovina/_.md)
 4. [Trojúhelník a čtyřúhelník](./pages/4-Troju%CC%81helni%CC%81k%20a%20c%CC%8Ctyr%CC%8Cu%CC%81helni%CC%81k/_.md)
 5. Shodná a podobná zobrazení
