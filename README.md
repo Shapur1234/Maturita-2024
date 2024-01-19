@@ -15,7 +15,7 @@ Maturita z matematiky
 8. [Exponenciální funkce a rovnice](./pages/8-Exponencia%CC%81lni%CC%81%20funkce%20a%20rovnice/_.md)
 9. [Logaritmické funkce a rovnice](./pages/9-Logaritmicke%CC%81%20funkce%20a%20rovnice/_.md)
 10. [Goniometrické funkce a rovnice](./pages/10-Goniometricke%CC%81%20funkce%20a%20rovnice/_.md)
-11. Mnohostěny
+11. [Mnohostěny](./pages/11-Mnohostěny/_.md)
 12. Rotační tělesa
 13. [Souřadnice a vektory](./pages/13-Sour%CC%8Cadnice%20a%20vektory/_.md)
 14. [Kuželosečky, elipsa](./pages/14-Ku%C5%BEelose%C4%8Dky%2C%20elipsa/_.md)
