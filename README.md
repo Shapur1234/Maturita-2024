@@ -20,7 +20,7 @@ Maturita z matematiky
 13. [Souřadnice a vektory](./pages/13-Sour%CC%8Cadnice%20a%20vektory/_.md)
 14. [Kuželosečky, elipsa](./pages/14-Ku%C5%BEelose%C4%8Dky%2C%20elipsa/_.md)
 15. [Kružnice](./pages/15-Kruz%CC%8Cnice/_.md)
-16. Parabola a kvadratická funkce a rovnice
+16. [Parabola a kvadratická funkce a rovnice](./pages/16-Parabola%20a%20kvadratick%C3%A1%20funkce%20a%20rovnice/_.md)
 17. Hyperbola a funkce lineární lomená
 18. [Kombinatorika](./pages/18-Kombinatorika/_.md)
 19. Statistika a pravděpodobnosti
