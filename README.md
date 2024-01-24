@@ -23,7 +23,7 @@ Maturita z matematiky
 16. [Parabola a kvadratická funkce a rovnice](./pages/16-Parabola%20a%20kvadratick%C3%A1%20funkce%20a%20rovnice/_.md)
 17. [Hyperbola a funkce lineární lomená](./pages/16-Hyperbola%20a%20funkce%20line%C3%A1rn%C3%AD%20lomen%C3%A1/_.md)
 18. [Kombinatorika](./pages/18-Kombinatorika/_.md)
-19. [Statistika a pravděpodobnosti](./pages/19-Statistika%a%)
+19. [Statistika a pravděpodobnosti](./pages/19-Statistika%20a%20Pravděpodobnost/_.md)
 20. [Posloupnosti](./pages/20-Posloupnosti/_.md)
 21. [Limita posloupnosti a řady](./pages/21-Limita%20posloupnosti%20a%20r%CC%8Cady/_.md)
 22. [Limita funkce](./pages/22-Limita%20funkce/_.md)
