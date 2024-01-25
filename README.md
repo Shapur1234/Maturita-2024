@@ -10,7 +10,7 @@ Maturita z matematiky
 3. [Přímka a rovina](./pages/3-Pr%CC%8Ci%CC%81mka%20a%20rovina/_.md)
 4. [Trojúhelník a čtyřúhelník](./pages/4-Troju%CC%81helni%CC%81k%20a%20c%CC%8Ctyr%CC%8Cu%CC%81helni%CC%81k/_.md)
 5. [Shodná a podobná zobrazení](./pages/5-Shodná%20a%20podobná%20zobrazení/_.md)
-6. [Lineární funkce a rovnice](./pages/6-Lineární%20funkce%20a%20rovnice)
+6. [Lineární funkce a rovnice](./pages/6-Lineární%20funkce%20a%20rovnice/_.md)
 7. [Mocninné funkce](./pages/7-Mocninná%20funkce/_.md)
 8. [Exponenciální funkce a rovnice](./pages/8-Exponencia%CC%81lni%CC%81%20funkce%20a%20rovnice/_.md)
 9. [Logaritmické funkce a rovnice](./pages/9-Logaritmicke%CC%81%20funkce%20a%20rovnice/_.md)
