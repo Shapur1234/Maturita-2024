@@ -5,7 +5,7 @@ Maturita z matematiky
 ## Otázky
 
 <!-- prettier-ignore -->
-  0.  [Obecné pojmy](./pages/0-Obecn%C3%A9%20pojmy/_.md)
+0.  [Obecné pojmy](./pages/0-Obecn%C3%A9%20pojmy/_.md)
 1.  :white_check_mark: [Množiny a číselné obory N, Z, Q, R](./pages/1-Mnoz%CC%8Ciny%20a%20c%CC%8Ci%CC%81selne%CC%81%20obory%20N%2C%20Z%2C%20Q%2C%20R/_.md)
 2.  :x: [Množina komplexních čísel](./pages/2-Množina%20komplexních%20čísel/_.md)
 3.  :x: [Přímka a rovina](./pages/3-Pr%CC%8Ci%CC%81mka%20a%20rovina/_.md)
