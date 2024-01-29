@@ -28,5 +28,5 @@ Maturita z matematiky
 20. :white_check_mark: [Posloupnosti](./pages/20-Posloupnosti/_.md)
 21. :white_check_mark: [Limita posloupnosti a řady](./pages/21-Limita%20posloupnosti%20a%20r%CC%8Cady/_.md)
 22. :x: [Limita funkce](./pages/22-Limita%20funkce/_.md)
-23. :x: [Diferenciální počet](./pages/23-Diferenci%C3%A1ln%C3%AD%20po%C4%8Det/_.md)
+23. :white_check_mark: [Diferenciální počet](./pages/23-Diferenci%C3%A1ln%C3%AD%20po%C4%8Det/_.md)
 24. :x: [Integrální počet](./pages/24-Integrální%20počet/_.md)
