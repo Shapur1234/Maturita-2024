@@ -8,7 +8,7 @@
 ### Světová a česká literatura 19. století
 
 - GOGOL, Nikolaj Vasiljevič. Revizor. Přel. Zdeněk Mahler. Praha: Artur, 2010
-- [HAVLÍČEK Borovský, Karel. Tyrolské elegie](./pages/tyrolske_elegie.pdf)
+- [HAVLÍČEK Borovský, Karel. Tyrolské elegie](./pdf/tyrolske_elegie.pdf)
 - MRŠTÍK, Alois - MRŠTÍK, Vilém. Maryša
 
 ### Světová literatura 20. a 21. století
@@ -22,7 +22,7 @@
 
 - ČAPEK, Karel. R.U.R
 - ČAPEK, Karel. Válka s mloky
-- CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu
+- [CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu](./pdf/dobyti_severniho_polu.pdf)
 - HAŠEK, Jaroslav. Osudy dobrého vojáka Švejka za světové války, I. díl
 - POLÁČEK, Karel. Bylo nás pět
 
@@ -41,6 +41,6 @@
 - ŠKVORECKÝ, Josef. Prima sezóna
 - ŠKVORECKÝ, Josef. Zbabělci.
 - STRUGACKIJ, Arkadij a STRUGACKIJ, Boris. Piknik u cesty. Přel. Marie Uhlířová, Vladimír Blažek. Praha: Mladá fronta, 1985
-- [TOLKIEN, John Ronald Reuel. Hobit. Přel. František Vrba. Praha: Odeon, 1991](./pages/hobit.pdf)
+- [TOLKIEN, John Ronald Reuel. Hobit. Přel. František Vrba. Praha: Odeon, 1991](./pdf/hobit.pdf)
 - VERNE, Jules. Cesta kolem světa za osmdesát dní. Přel. Josef Pospíšil. Praha: Levné knihy KMa, 2005
 - VERNE, Jules. Ocelové město. Přel. Václav Netušil. Praha: Albatros, 1989
