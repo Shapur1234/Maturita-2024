@@ -5,7 +5,6 @@ Výpisky k maturitě z Matematiky
 ### Otázky
 
 <!-- prettier-ignore -->
-0.  [Obecné pojmy](./pages/0/_.md)
 1.  :white_check_mark: [Množiny a číselné obory N, Z, Q, R](./pages/1/_.md)
 2.  :x: [Množina komplexních čísel](./pages/2/_.md)
 3.  :x: [Přímka a rovina](./pages/3/_.md)
