@@ -26,6 +26,6 @@ Výpisky k maturitě z Matematiky
 19. :x: [Statistika a pravděpodobnosti](./pages/19/_.md)
 20. :white_check_mark: [Posloupnosti](./pages/20/_.md)
 21. :white_check_mark: [Limita posloupnosti a řady](./pages/21/_.md)
-22. :x: [Limita funkce](./pages/22/_.md)
+22. :white_check_mark: [Limita funkce](./pages/22/_.md)
 23. :white_check_mark: [Diferenciální počet](./pages/23/_.md)
 24. :x: [Integrální počet](./pages/24/_.md)
