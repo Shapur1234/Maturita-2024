@@ -1,7 +1,7 @@
 #!/bin/sh
 
-rm -rf ./pdf
+rm -r ./pdf
 mkdir pdf
 
-cd odt
-libreoffice --convert-to pdf *.odt --outdir ../pdf
+cp ./md/*.pdf ./pdf
+libreoffice --convert-to pdf ./odt/*.odt --outdir ./pdf

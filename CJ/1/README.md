@@ -16,7 +16,7 @@
 - ASIMOV, Isaac. Já robot. Přeložil Oldřich Černý. Praha: Odeon, 1981
 - BRADBURY, Ray. 451 stupňů Fahrenheita. Přel. Jarmila Emmerová. Josef Škvorecký. Praha: Baronet; Euromedia Group - Knižní klub, 2001
 - ORWELL, George. 1984. Přel. Eva Šimečková. Praha: Levné knihy, 2009
-- ORWELL, George. Farma zvířat. Přel. Gabriel Gössel. Praha: Práce, 1991
+- [ORWELL, George. Farma zvířat. Přel. Gabriel Gössel. Praha: Práce, 1991](./pdf/farma_zvirat.pdf)
 
 ### Česká literatura 20. a 21. století
 
