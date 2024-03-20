@@ -23,7 +23,7 @@ Výpisky k maturitě z Matematiky
 16. :white_check_mark: [Parabola a kvadratická funkce a rovnice](./pages/16/_.md)
 17. :white_check_mark: [Hyperbola a funkce lineární lomená](./pages/17/_.md)
 18. :white_check_mark: [Kombinatorika](./pages/18/_.md)
-19. :x: [Statistika a pravděpodobnosti](./pages/19/_.md)
+19. :white_check_mark: [Statistika a pravděpodobnosti](./pages/19/_.md)
 20. :white_check_mark: [Posloupnosti](./pages/20/_.md)
 21. :white_check_mark: [Limita posloupnosti a řady](./pages/21/_.md)
 22. :white_check_mark: [Limita funkce](./pages/22/_.md)
