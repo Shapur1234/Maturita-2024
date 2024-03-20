@@ -78,7 +78,7 @@
 
 ### Literárně / obecně kulturní kontext
 
-- Lietrární proud?
+- Distopický román, postmoderní román
 - Světová literatura poloviny 20. st.
 - Válečná doba - potíže s vydáním
 - Reflexe ruské revoluce
