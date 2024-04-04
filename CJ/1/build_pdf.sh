@@ -3,5 +3,5 @@
 rm -r ./pdf
 mkdir pdf
 
-cp ./md/*.pdf ./pdf
-libreoffice --convert-to pdf ./odt/*.odt --outdir ./pdf
+cp ./src/pdf/*.pdf ./pdf
+libreoffice --convert-to pdf ./src/odt/*.odt --outdir ./pdf
