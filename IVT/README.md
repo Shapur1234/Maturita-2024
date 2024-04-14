@@ -24,4 +24,4 @@ Výpisky k maturitě z IVT
 17. :x: Protokoly - Iso osi, Tcp/ip, vrstvy, IP adresa, maska
 18. :x: Klient – server - ostatní modely, služby serveru
 19. :x: Bezdrátové sítě - druhy, zabezpečení, princip přenosu
-20. :x: Hardwarové komponenty - druhy, využití, sběrnice – typy, CPU, GPU
+20. :x: [Hardwarové komponenty](./pages/20/_.md)
