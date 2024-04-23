@@ -6,7 +6,7 @@ Výpisky k maturitě z IVT
 
 <!-- prettier-ignore -->
 1.  :x: Informace, data – číselné soustavy, binární kódování, jednotky informací
-2.  :x: Software – operační systémy, aplikační software, druhy licencí, instalace softwaru
+2.  :x: [Software](./pages/2/_.md)
 3.  :x: Internet – historie internetu, služby internetu (www, e-mail) programovací jazyky pro www stránky
 4.  :x: Počítačová bezpečnost – malware (vir, červ, trojský kůň), antivirová ochrana, firewall
 5.  :x: Počítačová grafika – druhy poč. grafiky, software, souborové formáty
@@ -24,4 +24,4 @@ Výpisky k maturitě z IVT
 17. :x: Protokoly - Iso osi, Tcp/ip, vrstvy, IP adresa, maska
 18. :x: Klient – server - ostatní modely, služby serveru
 19. :x: Bezdrátové sítě - druhy, zabezpečení, princip přenosu
-20. :x: Hardwarové komponenty - druhy, využití, sběrnice – typy, CPU, GPU
+20. :x: [Hardwarové komponenty](./pages/20/_.md)
