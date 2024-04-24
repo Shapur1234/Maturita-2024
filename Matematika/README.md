@@ -10,7 +10,7 @@ Výpisky k maturitě z Matematiky
 3.  :x: [Přímka a rovina](./pages/3/_.md)
 4.  :white_check_mark: [Trojúhelník a čtyřúhelník](./pages/4/_.md)
 5.  :x: [Shodná a podobná zobrazení](./pages/5/_.md)
-6.  :x: [Lineární funkce a rovnice](./pages/6/_.md)
+6.  :white_check_mark: [Lineární funkce a rovnice](./pages/6/_.md)
 7.  :x: [Mocninné funkce](./pages/7/_.md)
 8.  :white_check_mark: [Exponenciální funkce a rovnice](./pages/8/_.md)
 9.  :white_check_mark: [Logaritmické funkce a rovnice](./pages/9/_.md)
