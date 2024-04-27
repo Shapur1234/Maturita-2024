@@ -9,7 +9,7 @@ Výpisky k maturitě z IVT
 2.  :x: [Software](./pages/2/_.md)
 3.  :x: [Internet](./pages/3/_.md) 
 4.  :x: Počítačová bezpečnost – malware (vir, červ, trojský kůň), antivirová ochrana, firewall
-5.  :x: [Počítačová grafika](./pages/5/_.md)
+5.  :white_check_mark: [Počítačová grafika](./pages/5/_.md)
 6.  :x: Autorské právo – audio, video, software, sociální sítě, ochrana osobních údajů
 7.  :x: Operace paměti - proměnná, konstanta a datové typy
 8.  :x: Algoritmy - vývojové diagramy a základní stavební bloky algoritmů
