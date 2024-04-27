@@ -7,7 +7,7 @@ Výpisky k maturitě z IVT
 <!-- prettier-ignore -->
 1.  :x: [Informace, Data](./pages/1/_.md)
 2.  :x: [Software](./pages/2/_.md)
-3.  :x: [Internet](./pages/3/_.md) 
+3.  :white_check_mark: [Internet](./pages/3/_.md) 
 4.  :x: Počítačová bezpečnost – malware (vir, červ, trojský kůň), antivirová ochrana, firewall
 5.  :white_check_mark: [Počítačová grafika](./pages/5/_.md)
 6.  :x: Autorské právo – audio, video, software, sociální sítě, ochrana osobních údajů
