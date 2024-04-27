@@ -5,7 +5,7 @@ Výpisky k maturitě z IVT
 ### Otázky
 
 <!-- prettier-ignore -->
-1.  :x: Informace, data – číselné soustavy, binární kódování, jednotky informací
+1.  :x: [Informace, Data](./pages/1/_.md)
 2.  :x: [Software](./pages/2/_.md)
 3.  :x: [Internet](./pages/3/_.md) 
 4.  :x: Počítačová bezpečnost – malware (vir, červ, trojský kůň), antivirová ochrana, firewall
