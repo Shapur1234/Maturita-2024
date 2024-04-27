@@ -5,8 +5,8 @@ Výpisky k maturitě z IVT
 ### Otázky
 
 <!-- prettier-ignore -->
-1.  :x: [Informace, Data](./pages/1/_.md)
-2.  :white_check_mark: [Software](./pages/2/_.md)
+1.  :white_check_mark: [Informace, Data](./pages/1/_.md)
+2.  :x: [Software](./pages/2/_.md)
 3.  :white_check_mark: [Internet](./pages/3/_.md) 
 4.  :x: [Počítačová bezpečnost](./pages/4/_.md)
 5.  :white_check_mark: [Počítačová grafika](./pages/5/_.md)
