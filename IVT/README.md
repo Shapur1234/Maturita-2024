@@ -7,7 +7,7 @@ Výpisky k maturitě z IVT
 <!-- prettier-ignore -->
 1.  :x: Informace, data – číselné soustavy, binární kódování, jednotky informací
 2.  :x: [Software](./pages/2/_.md)
-3.  :x: Internet – historie internetu, služby internetu (www, e-mail) programovací jazyky pro www stránky
+3.  :x: [Internet](./pages/3/_.md) 
 4.  :x: Počítačová bezpečnost – malware (vir, červ, trojský kůň), antivirová ochrana, firewall
 5.  :x: [Počítačová grafika](./pages/5/_.md)
 6.  :x: Autorské právo – audio, video, software, sociální sítě, ochrana osobních údajů
