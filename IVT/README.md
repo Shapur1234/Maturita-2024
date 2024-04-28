@@ -11,17 +11,17 @@ Výpisky k maturitě z IVT
 4.  :white_check_mark: [Počítačová bezpečnost](./pages/4/_.md)
 5.  :white_check_mark: [Počítačová grafika](./pages/5/_.md)
 6.  :x: [Autorské právo](./pages/6/_.md)
-7.  :x: Operace paměti - proměnná, konstanta a datové typy
-8.  :x: Algoritmy - vývojové diagramy a základní stavební bloky algoritmů
-9.  :x: Větvení algoritmu - druhy větvení, rekurze, příkazy, objekty, aplikace v praxi
-10. :x: Syntaxe - zápis kódu, typy syntaxe programovacích jazyků
-11. :x: Funkce - využití funkcí pro programování, volání funkcí, argumenty (parametry) funkcí, metody
-12. :x: Vstupní zařízení - funkce, princip, druhy
-13. :x: Výstupní zařízení - funkce, princip, druhy
-14. :x: Mobilní zařízení - druhy mob. zařízení, funkce, mobilní sítě
-15. :x: Záznamová zařízení a média - typy, princip záznamu, využití
-16. :x: Topologie poč. sítí - druhy sítí, prvky sítě
-17. :x: Protokoly - Iso osi, Tcp/ip, vrstvy, IP adresa, maska
-18. :x: Klient – server - ostatní modely, služby serveru
-19. :x: Bezdrátové sítě - druhy, zabezpečení, princip přenosu
+7.  :x: [Operace paměti](./pages/7/_.md)
+8.  :x: [Algoritmy](./pages/8/_.md)
+9.  :x: [Větvení algoritmu](./pages/9/_.md) 
+10. :x: [Syntaxe](./pages/10/_.md)
+11. :x: [Funkce](./pages/11/_.md)
+12. :x: [Vstupní zařízení](./pages/12/_.md)
+13. :x: [Výstupní zařízení](./pages/13/_.md)
+14. :x: [Mobilní zařízení](./pages/14/_.md)
+15. :x: [Záznamová zařízení a média](./pages/15/_.md)
+16. :x: [Topologie poč. sítí](./pages/16/_.md)
+17. :x: [Protokoly](./pages/17/_.md)
+18. :x: [Klient](./pages/18/_.md)
+19. :x: [Bezdrátové sítě](./pages/19/_.md)
 20. :x: [Hardwarové komponenty](./pages/20/_.md)
