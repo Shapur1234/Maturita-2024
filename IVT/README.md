@@ -12,7 +12,7 @@ Výpisky k maturitě z IVT
 5.  :white_check_mark: [Počítačová grafika](./pages/5/_.md)
 6.  :x: [Autorské právo](./pages/6/_.md)
 7.  :x: [Operace paměti](./pages/7/_.md)
-8.  :x: [Algoritmy](./pages/8/_.md)
+8.  :white_check_mark: [Algoritmy](./pages/8/_.md)
 9.  :x: [Větvení algoritmu](./pages/9/_.md) 
 10. :x: [Syntaxe](./pages/10/_.md)
 11. :x: [Funkce](./pages/11/_.md)
