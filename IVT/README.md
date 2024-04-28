@@ -10,7 +10,7 @@ Výpisky k maturitě z IVT
 3.  :white_check_mark: [Internet](./pages/3/_.md) 
 4.  :white_check_mark: [Počítačová bezpečnost](./pages/4/_.md)
 5.  :white_check_mark: [Počítačová grafika](./pages/5/_.md)
-6.  :x: Autorské právo – audio, video, software, sociální sítě, ochrana osobních údajů
+6.  :x: [Autorské právo](./pages/6/_.md)
 7.  :x: Operace paměti - proměnná, konstanta a datové typy
 8.  :x: Algoritmy - vývojové diagramy a základní stavební bloky algoritmů
 9.  :x: Větvení algoritmu - druhy větvení, rekurze, příkazy, objekty, aplikace v praxi
