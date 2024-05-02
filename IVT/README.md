@@ -24,4 +24,4 @@ Výpisky k maturitě z IVT
 17. :x: [Protokoly](./pages/17/_.md)
 18. :x: [Klient](./pages/18/_.md)
 19. :x: [Bezdrátové sítě](./pages/19/_.md)
-20. :x: [Hardwarové komponenty](./pages/20/_.md)
+20. :white_check_mark: [Hardwarové komponenty](./pages/20/_.md)
