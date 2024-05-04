@@ -4,4 +4,5 @@ Výpisky k maturitě z Češtiny
 
 ### Kánony
 
-- [1](./1/README.md)
+- [Jirka](./1/README.md)
+- [Viktor](./2/README.md)
