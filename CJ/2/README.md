@@ -3,7 +3,6 @@
 
 - BASS, Eduard. Klapzubova jedenáctka
 
-- [BOCCACCIO, Giovanni. Dekameron](./pdf/dekameron.pdf)
 - ČAPEK, Karel. R.U.R
 
 - [CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu](./pdf/dobyti_severniho_polu.pdf)
