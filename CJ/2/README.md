@@ -9,7 +9,7 @@
 - [BURGESS, Anthony. Mechanický pomeranč](./pdf/MECHAPOM.pdf)
 - [KEROUAC, Jack. Na cestě](./pdf/Jack_Kerouac_Na_ceste.pdf)
 - JEROME, Klapka Jerome. Tři muži ve člunu
-- [BECKETT, Samuel. Čekání na Godota](./src/odt)
+- [BECKETT, Samuel. Čekání na Godota](./pdf/Beckett - Čekání na Godota.pdf)
 
 
 - ČAPEK, Karel. Matka
@@ -24,8 +24,8 @@
 - ORWELL, George. 1984
 - [ORWELL, George. Farma zvířat. Přel. Gabriel Gössel. Praha: Práce, 1991](./pdf/farma_zvirat.pdf)
 - [APOLLINAIRE, Guillaume. Pásmo](./pdf/Pásmo.pdf)
-- [JIROTKA, Zdeněk. Saturnin]
-- [RIMBAUD, Arthur. Opilý koráb]
+- [JIROTKA, Zdeněk. Saturnin](./pdf/Jirotka - Saturnin.pdf)
+- [RIMBAUD, Arthur. Opilý koráb](./pdf/A. Rimbaud - Opilý koráb.pdf)
 - SHAKESPEARE, William. Hamlet
 - REMARQUE, Erich Maria. Na západní frontě klid
 - HEMINGWAY, Ernest. Stařec a moře
@@ -33,6 +33,7 @@
 - SAROYAN, William. Tracyho tygr
 - HRABAL, Bohumil. Ostře sledované vlaky
 - [HAVLÍČEK Borovský, Karel. Tyrolské elegie](./pdf/tyrolske_elegie.pdf)
+
 
 
 
