@@ -15,7 +15,7 @@ Výpisky k maturitě z IVT
 8.  :white_check_mark: [Algoritmy](./pages/8/_.md)
 9.  :white_check_mark: [Větvení algoritmu](./pages/9/_.md) 
 10. :x: [Syntaxe](./pages/10/_.md)
-11. :x: [Funkce](./pages/11/_.md)
+11. :white_check_mark: [Funkce](./pages/11/_.md)
 12. :white_check_mark: [Vstupní zařízení](./pages/12/_.md)
 13. :x: [Výstupní zařízení](./pages/13/_.md)
 14. :x: [Mobilní zařízení](./pages/14/_.md)

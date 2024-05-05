@@ -1,16 +1,16 @@
 # Kánon
+
 - Epos o Gilgamešovi
 - SHAKESPEARE, William. Romeo a Julie
 
 - [DOSTOJEVSKIJ, Fjodor Michailovič. Zločin a trest](./pdf/zlocin_a_trest.pdf)
-- [POE, Edgar Allan. Havran](./pdf/HAVRAN(2).pdf)
+- [POE, Edgar Allan. Havran](<./pdf/HAVRAN(2).pdf>)
 - POE, Edgar Allan. Jáma a kyvadlo
 
 - [BURGESS, Anthony. Mechanický pomeranč](./pdf/MECHAPOM.pdf)
 - [KEROUAC, Jack. Na cestě](./pdf/Jack_Kerouac_Na_ceste.pdf)
 - JEROME, Klapka Jerome. Tři muži ve člunu
 - [BECKETT, Samuel. Čekání na Godota](./pdf/ČekánínaGodota.pdf)
-
 
 - ČAPEK, Karel. Matka
 - ČAPEK, Karel. R.U.R
@@ -33,8 +33,3 @@
 - SAROYAN, William. Tracyho tygr
 - [HRABAL, Bohumil. Ostře sledované vlaky](./pdf/OstřesledovanévlakyHrabal.pdf)
 - [HAVLÍČEK Borovský, Karel. Tyrolské elegie](./pdf/tyrolske_elegie.pdf)
-
-
-
-
-
