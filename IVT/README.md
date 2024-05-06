@@ -19,7 +19,7 @@ Výpisky k maturitě z IVT
 12. :white_check_mark: [Vstupní zařízení](./pages/12/_.md)
 13. :x: [Výstupní zařízení](./pages/13/_.md)
 14. :x: [Mobilní zařízení](./pages/14/_.md)
-15. :x: [Záznamová zařízení a média](./pages/15/_.md)
+15. :Záznamová zařízení a média: [Záznamová zařízení a média](./pages/15/_.md)
 16. :x: [Topologie poč. sítí](./pages/16/_.md)
 17. :x: [Protokoly](./pages/17/_.md)
 18. :x: [Klient](./pages/18/_.md)
