@@ -9,7 +9,7 @@ Výpisky k maturitě z Matematiky
 2.  :white_check_mark: [Množina komplexních čísel](./pages/2/_.md)
 3.  :white_check_mark: [Přímka a rovina](./pages/3/_.md)
 4.  :white_check_mark: [Trojúhelník a čtyřúhelník](./pages/4/_.md)
-5.  :x: [Shodná a podobná zobrazení](./pages/5/_.md)
+5.  :white_check_mark: [Shodná a podobná zobrazení](./pages/5/_.md)
 6.  :white_check_mark: [Lineární funkce a rovnice](./pages/6/_.md)
 7.  :white_check_mark: [Mocninné funkce](./pages/7/_.md)
 8.  :white_check_mark: [Exponenciální funkce a rovnice](./pages/8/_.md)
