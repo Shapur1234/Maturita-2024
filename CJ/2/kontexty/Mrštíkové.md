@@ -24,4 +24,5 @@
 	- podepsal manifest čeké moderny
 	- překladatel ruského realismu -> Dostojevski, Tolstoj, Gogol, Turgeněv
 
+- oba dva byli vásniví včelaří, autoři technických inovací, vlastnili až 90 včelstev
 - současníci: relističtí Alois Jirásek, Zikmund Winter moderní: Otokar Březina, Antonín Sova
