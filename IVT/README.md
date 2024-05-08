@@ -17,7 +17,7 @@ Výpisky k maturitě z IVT
 10. :white_check_mark: [Syntaxe](./pages/10/_.md)
 11. :white_check_mark: [Funkce](./pages/11/_.md)
 12. :white_check_mark: [Vstupní zařízení](./pages/12/_.md)
-13. :x: [Výstupní zařízení](./pages/13/_.md)
+13. :white_check_mark: [Výstupní zařízení](./pages/13/_.md)
 14. :white_check_mark: [Mobilní zařízení](./pages/14/_.md)
 15. :white_check_mark: [Záznamová zařízení a média](./pages/15/_.md)
 16. :x: [Topologie poč. sítí](./pages/16/_.md)
