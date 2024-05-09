@@ -21,7 +21,7 @@ Výpisky k maturitě z IVT
 14. :white_check_mark: [Mobilní zařízení](./pages/14/_.md)
 15. :white_check_mark: [Záznamová zařízení a média](./pages/15/_.md)
 16. :x: [Topologie poč. sítí](./pages/16/_.md)
-17. :x: [Protokoly](./pages/17/_.md)
+17. :white_check_mark: [Protokoly](./pages/17/_.md)
 18. :white_check_mark: [Klient - server](./pages/18/_.md)
 19. :x: [Bezdrátové sítě](./pages/19/_.md)
 20. :white_check_mark: [Hardwarové komponenty](./pages/20/_.md)
