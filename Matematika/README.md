@@ -15,7 +15,7 @@ Výpisky k maturitě z Matematiky
 8.  :white_check_mark: [Exponenciální funkce a rovnice](./pages/8/_.md)
 9.  :white_check_mark: [Logaritmické funkce a rovnice](./pages/9/_.md)
 10. :white_check_mark: [Goniometrické funkce a rovnice](./pages/10/_.md)
-11. :x: [Mnohostěny](./pages/11/_.md)
+11. :white_check_mark: [Mnohostěny](./pages/11/_.md)
 12. :x: [Rotační tělesa](./pages/12/_.md)
 13. :white_check_mark: [Souřadnice a vektory](./pages/13/_.md)
 14. :white_check_mark: [Kuželosečky, elipsa](./pages/14/_.md)
