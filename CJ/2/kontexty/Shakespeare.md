@@ -1,11 +1,17 @@
 # Shakespeare
-- dramatik, básně sonety
+- 1654 až 1616
+- dramatik, básně sonety "Bard z Avonu"
 - znásilnění lukrécie -> neznámější báseň, mnoho interpetací
 - 1590 spíš komedie
 - na přelomu století se klonil k tragédiím
-- na sklonku života romance -> něco mezi komedií a tragédií
+- na sklonku života romance (tragikomedie) -> něco mezi komedií a tragédií 
 - byl "angažovaný básník" líčil yorky i lancastry jako záporáky, tudorovci jsou kladné postavy -> byl zaměstnanec alžběty
 - jeho příběhy jsou platné napříč dějinami
+- divadlo globe
+- kings men
+- Hmalet, Othelo, R a J, Mackbeth, Sen noi svatojánské, Sonety
+- monology používall ppro prozkoumánní mysli svých postav, ne pouzr po popis scény/předání informace
+- renesance -> vymezení se vůči scholastickému středověku, důraz na člověka ne na boha
 
 
 
