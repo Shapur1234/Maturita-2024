@@ -23,5 +23,5 @@ Výpisky k maturitě z IVT
 16. :white_check_mark: [Topologie počítačových sítí](./pages/16/_.md)
 17. :white_check_mark: [Protokoly](./pages/17/_.md)
 18. :white_check_mark: [Klient - server](./pages/18/_.md)
-19. :x: [Bezdrátové sítě](./pages/19/_.md)
+19. :white_check_mark: [Bezdrátové sítě](./pages/19/_.md)
 20. :white_check_mark: [Hardwarové komponenty](./pages/20/_.md)
