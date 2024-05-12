@@ -13,11 +13,11 @@
 ## Díla
 
 - Farma zvířat
-  - Vydáno za 2. světové války - Kritizuje SSSR, měl potíže s vydáním
   - Zvířátka se na anglické farmě vzbouří a vytvoří vlastní socialistickou republiku - Alegorie na politický vývoj v SSSR
   - Literární druh - Epika (próza)
   - Žánr - Klíčový román, distopický román, novodobá bajka
   - Kompoziční výstavba - Chronologická, 10 kapitol
+  - Vydáno za 2. světové války - Kritizuje SSSR, měl potíže s vydáním
   - Zfilmováno
 - 1984
   - Nejslavnější Orwellovo dílo, vydáno po válce

@@ -8,21 +8,21 @@
 
 ## Kontexty
 
-- [ASIMOV, Isaac. Já robot](./kontexty/asimov.md)
-- [BASS, Eduard. Klapzubova jedenáctka](./kontexty/bass.md)
 - Bible – 4 evangelia Nového zákona
 - Bible – Genesis
-- BOCCACCIO, Giovanni. Dekameron
+- Epos o Gilgamešovi
+- [ALIGHIERI, Dante. Božská komedie – Peklo](./kontexty/alighieri.md)
+- [ASIMOV, Isaac. Já robot](./kontexty/asimov.md)
+- [BASS, Eduard. Klapzubova jedenáctka](./kontexty/bass.md)
+- [BOCCACCIO, Giovanni. Dekameron](./kontexty/boccaccio.md)
 - ČAPEK, Karel. R.U.R
 - ČAPEK, Karel. Válka s mloky
 - CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu
 - CIMRMAN, Jára - SMOLJAK, Ladislav. Vyšetřování ztráty třídní knihy
-- DANTE, Alighieri. Božská komedie – Peklo
 - DOSTOJEVSKIJ, Fjodor Michailovič. Zločin a trest
 - DOYLE, Arthur Conan. Poslední poklona Sherlocka Holmese
 - DYK, Viktor. Krysař
 - ECO, Umberto. Jméno růže
-- Epos o Gilgamešovi
 - GOGOL, Nikolaj Vasiljevič. Revizor
 - GOLDONI, Carlo. Sluha dvou pánů
 - HAŠEK, Jaroslav. Osudy dobrého vojáka Švejka za světové války, I. díl

@@ -15,12 +15,12 @@
 - Hlavně sci-fi, detektivky, fantasi
 - Spousty povídek
 - Já robot
-  - Jedno z Asimovových prvních děl
   - Sbírka povídek, postupně časopisně vydávané, 1950
   - Rozebírají vliv "pozitronových robotů" na společnost, jejich chování (3 zákony robotiky)
   - Literární druh - Epika (próza)
   - Žánr - Povídka
     - Kompoziční výstavba - 9 povídek, které jsou nezávislé, ale chronologicky uspořádané, některé postavy se opakují
+  - Jedno z Asimovových prvních děl
 - Série o Nadaci
 - Série o robotech
 - Série galaktická říše
