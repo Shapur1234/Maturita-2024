@@ -8,23 +8,24 @@
 - Práce pro policii v imperiální indii - Nenávist k imperialismus, levičáctví
 - Později novinář, esejista v Anglii, učitel, manuální práce - Nějakou dobu žil na ulici, psal o tom reportáže
 - Dobrovolník v Španělské občanské válce - Deziluzaván po stalinizaci socialistické strany
-- Za války cenzor pro ministerstvo informací, nebojoval kvuli tuberkuloze, na kterou zemřel
+- Za války cenzor pro ministerstvo informací - Nebojoval kvuli tuberkuloze, na kterou zemřel
 
 ## Díla
 
 - Farma zvířat
-  - Vydáno za 2. světové války
-    - Kritizuje SSSR - Potíže s vydáním
+  - Vydáno za 2. světové války - Kritizuje SSSR, měl potíže s vydáním
   - Zvířátka se na anglické farmě vzbouří a vytvoří vlastní socialistickou republiku - Alegorie na politický vývoj v SSSR
   - Literární druh - Epika (próza)
   - Žánr - Klíčový román, distopický román, novodobá bajka
   - Kompoziční výstavba - Chronologická, 10 kapitol
+  - Zfilmováno
 - 1984
   - Nejslavnější Orwellovo dílo, vydáno po válce
   - Popisuje život v supertotalitním státu, lehké prvky sci-fi
   - Literární druh - Epika (próza)
   - Žánr - Distopický román
   - Kompoziční výstavba - Chronologická, 3 části a 23 kapitol
+  - Zfilmováno
 - Hold Katalánsku
   - Zážitky ze španělské občanské války
 - Na dně v Paříži a v Londýně

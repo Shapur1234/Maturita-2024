@@ -3,12 +3,13 @@
 ## Materiály
 
 - [Struktura maturitní otázky](./materialy/struktura_maturitni_otazky.pdf)
+- [Slovníček pojmů](./materialy/slovnicek_pojmu.pdf)
 - [Rozbor neuměleckého textu](./materialy/rozbor_neumeleckeho_textu.pdf)
 
 ## Kontexty
 
 - [ASIMOV, Isaac. Já robot](./kontexty/asimov.md)
-- BASS, Eduard. Klapzubova jedenáctka
+- [BASS, Eduard. Klapzubova jedenáctka](./kontexty/bass.md)
 - Bible – 4 evangelia Nového zákona
 - Bible – Genesis
 - BOCCACCIO, Giovanni. Dekameron
