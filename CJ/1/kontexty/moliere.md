@@ -9,16 +9,6 @@
 - Zesměšňoval prokratce aristokracii a církcve
 - Zemřel na jevišti
 
-## Díla
-
-- Monoho her, hlavně satirické komedie
-- Lakomec
-  - Lakomý lichvář a kupec Harpagon se a zárověň jeho syn zamilují do mladé ženy, někdo ho okrade, nakonec vše dobře dopadne
-  - Literární druh - Drama (próza)
-  - Žánr - Komedie
-  - Kompoziční výstavba - Chronologická, dělení na 5 dějství
-- Tartuffe neboli Podvodník - Drama o pokrytcovi Tartuffovi a jeho pletichách
-
 ## Literárně / obecně kulturní kontext
 
 - Novověk, Burbonská monarchie - Za vlády Ludvíka XIV. "krále slunce"
@@ -28,3 +18,13 @@
   - Proti baroku
 - Inspirace komedií dell'arte (improvizace)
 - Tehdy herectvím pohrdáno, komedie "nižsí umění", určeno hlavně plebu
+
+## Díla
+
+- Monoho her, hlavně satirické komedie
+- Lakomec
+  - Lakomý lichvář a kupec Harpagon se a zárověň jeho syn zamilují do mladé ženy, někdo ho okrade, nakonec vše dobře dopadne
+  - Literární druh - Drama (próza)
+  - Žánr - Komedie
+  - Kompoziční výstavba - Chronologická, dělení na 5 dějství
+- Tartuffe neboli Podvodník - Drama o pokrytcovi Tartuffovi a jeho pletichách

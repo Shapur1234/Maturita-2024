@@ -15,6 +15,7 @@
 - [ASIMOV, Isaac. Já robot](./kontexty/asimov.md)
 - [BASS, Eduard. Klapzubova jedenáctka](./kontexty/bass.md)
 - [BOCCACCIO, Giovanni. Dekameron](./kontexty/boccaccio.md)
+- [BOROVSKÝ, Karel Havlíček. Tyrolské elegie](./kontexty/borovsky.md)
 - ČAPEK, Karel. R.U.R
 - ČAPEK, Karel. Válka s mloky
 - CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu
@@ -26,15 +27,14 @@
 - GOGOL, Nikolaj Vasiljevič. Revizor
 - [GOLDONI, Carlo. Sluha dvou pánů](./kontexty/goldoni.md)
 - HAŠEK, Jaroslav. Osudy dobrého vojáka Švejka za světové války, I. díl
-- HAVLÍČEK Borovský, Karel. Tyrolské elegie
 - [MOLIÈRE. Lakomec](./kontexty/moliere.md)
-- MRŠTÍK, Alois - MRŠTÍK, Vilém. Maryša
+- [MRŠTÍK, Alois - MRŠTÍK, Vilém. Maryša](./kontexty/mrstikove.md)
 - NABOKOV, Vladimir. Lolita
-- NERUDA, Jan. Malostranské povídky
+- [NERUDA, Jan. Malostranské povídky](./kontexty/neruda.md)
 - [ORWELL, George. 1984](./kontexty/orwell.md)
 - [ORWELL, George. Farma zvířat. Přel. Gabriel Gössel. Praha: Práce, 1991](./kontexty/orwell.md)
 - REMARQUE, Erich Maria. Na západní frontě klid
 - STRUGACKIJ, Arkadij a STRUGACKIJ, Boris. Piknik u cesty
 - TOLKIEN, John Ronald Reuel. Hobit. Přel. František Vrba. Praha: Odeon, 1991
 - VERNE, Jules. Ocelové město
-- ZEYER, Julius. Tři legendy o krucifixu
+- [ZEYER, Julius. Tři legendy o krucifixu](./kontexty/zeyer.md)

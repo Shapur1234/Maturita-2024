@@ -10,6 +10,14 @@
 - Dobrovolník v Španělské občanské válce - Deziluzaván po stalinizaci socialistické strany
 - Za války cenzor pro ministerstvo informací - Nebojoval kvuli tuberkuloze, na kterou zemřel
 
+## Literárně / obecně kulturní kontext
+
+- Řadí se mezi
+  - Světová literatura poloviny 20. st.
+  - Distopický román, postmoderní román
+- Reflexe selhání kapitalismu, kritika ruské revoluce (Farma zvířat), varování před totalitou (Farma zvýřat, 1984)
+- Vydání u nás zakázáno komunisty
+
 ## Díla
 
 - Farma zvířat
@@ -30,11 +38,3 @@
   - Zážitky ze španělské občanské války
 - Na dně v Paříži a v Londýně
   - Zážitky z doby, když se pohyboval mezi chudinou
-
-## Literárně / obecně kulturní kontext
-
-- Řadí se mezi
-  - Světová literatura poloviny 20. st.
-  - Distopický román, postmoderní román
-- Reflexe selhání kapitalismu, kritika ruské revoluce (Farma zvířat), varování před totalitou (Farma zvýřat, 1984)
-- Vydání u nás zakázáno komunisty

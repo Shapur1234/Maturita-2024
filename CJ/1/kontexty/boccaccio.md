@@ -9,6 +9,14 @@
 - Prograpoval studium antiky, řečtiny
 - Zemřel v chudobě
 
+## Literárně / obecně kulturní kontext
+
+- Časově ještě konec středověku, ale renesanční autor a humanista
+- Odpůrce středověku a mystiky, věnuje se pozemskému, lidem
+- Dílo není poučné a teologické, ale má pouze poskytovat zábavu
+- Problémi s církví - Dílo zakázáno, později cenzurováno
+- Současníci jako Pertarca (jeho přítel), Machiavelli, Alighiery
+
 ## Díla
 
 - Dekameron
@@ -17,11 +25,3 @@
   - Žánr - Soubor novel
   - Kompoziční výstavba - Rámcová novela (popis morové rány), sbírka 100 novel dělených do 10 dnů vyprávění
 - Život Dantův - Životopis Danta Alighieriho
-
-## Literárně / obecně kulturní kontext
-
-- Časově ještě konec středověku, ale renesanční autor a humanista
-- Odpůrce středověku a mystiky, věnuje se pozemskému, lidem
-- Dílo není poučné a teologické, ale má pouze poskytovat zábavu
-- Problémi s církví - Dílo zakázáno, později cenzurováno
-- Současníci jako Pertarca (jeho přítel), Machiavelli, Alighiery
