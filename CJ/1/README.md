@@ -24,10 +24,10 @@
 - DYK, Viktor. Krysař
 - ECO, Umberto. Jméno růže
 - GOGOL, Nikolaj Vasiljevič. Revizor
-- GOLDONI, Carlo. Sluha dvou pánů
+- [GOLDONI, Carlo. Sluha dvou pánů](./kontexty/goldoni.md)
 - HAŠEK, Jaroslav. Osudy dobrého vojáka Švejka za světové války, I. díl
 - HAVLÍČEK Borovský, Karel. Tyrolské elegie
-- MOLIÈRE. Lakomec
+- [MOLIÈRE. Lakomec](./kontexty/moliere.md)
 - MRŠTÍK, Alois - MRŠTÍK, Vilém. Maryša
 - NABOKOV, Vladimir. Lolita
 - NERUDA, Jan. Malostranské povídky

@@ -5,8 +5,8 @@
 - Italský básník a novelista
 - 1313 Neapol až 1375
 - Studoval práva, později přešel k literatuře - Právníky pohrdal
-- Ve státní službe, jako displomat cestoval
-- Zasluhoval se o propagaci studia antiky, přátelil se s Petrarcou
+- Ve státní službe, jako diplomat hodně cestoval
+- Prograpoval studium antiky, řečtiny
 - Zemřel v chudobě
 
 ## Díla
@@ -24,4 +24,4 @@
 - Odpůrce středověku a mystiky, věnuje se pozemskému, lidem
 - Dílo není poučné a teologické, ale má pouze poskytovat zábavu
 - Problémi s církví - Dílo zakázáno, později cenzurováno
-- Současníci jako Pertarca, Machiavelli, Alighiery
+- Současníci jako Pertarca (jeho přítel), Machiavelli, Alighiery
