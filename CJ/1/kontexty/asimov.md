@@ -9,6 +9,13 @@
 - Humanista a racionalista, skeptik
 - Průkopník sci-fi
 
+## Literárně / obecně kulturní kontext
+
+- Řadí se do poválečné světové literatury, "zlatý věk sci-fi"
+- Vesmírné závody, velký rozmach techniky - Časté kosmické lodě, galaktická impéria...
+- Asimov byl fanouškem RUR -> slovo robot
+- Další doboví sci-fi autoři např. Arhur C. Clark, později Frank Herbert
+
 ## Díla
 
 - Velmi mnoho beletristických i vědeckých prací
@@ -24,10 +31,3 @@
 - Série o Nadaci
 - Série o robotech
 - Série galaktická říše
-
-## Literárně / obecně kulturní kontext
-
-- Řadí se do poválečné světové literatury, "zlatý věk sci-fi"
-- Vesmírné závody, velký rozmach techniky - Časté kosmické lodě, galaktická impéria...
-- Asimov byl fanouškem RUR -> slovo robot
-- Další doboví sci-fi autoři např. Arhur C. Clark, později Frank Herbert
