@@ -8,9 +8,9 @@
 
 ## Kontexty
 
-- Bible – 4 evangelia Nového zákona
-- Bible – Genesis
-- Epos o Gilgamešovi
+- [Bible – Genesis](./kontexty/bible.md)
+- [Bible – 4 evangelia Nového zákona](./kontexty/bible.md)
+- [Epos o Gilgamešovi](./kontexty/gilgames.md)
 - [ALIGHIERI, Dante. Božská komedie – Peklo](./kontexty/alighieri.md)
 - [ASIMOV, Isaac. Já robot](./kontexty/asimov.md)
 - [BASS, Eduard. Klapzubova jedenáctka](./kontexty/bass.md)
