@@ -16,17 +16,17 @@
 - [BASS, Eduard. Klapzubova jedenáctka](./kontexty/bass.md)
 - [BOCCACCIO, Giovanni. Dekameron](./kontexty/boccaccio.md)
 - [BOROVSKÝ, Karel Havlíček. Tyrolské elegie](./kontexty/borovsky.md)
-- ČAPEK, Karel. R.U.R
-- ČAPEK, Karel. Válka s mloky
-- CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu
-- CIMRMAN, Jára - SMOLJAK, Ladislav. Vyšetřování ztráty třídní knihy
+- [ČAPEK, Karel. R.U.R](./kontexty/capek.md)
+- [ČAPEK, Karel. Válka s mloky](./kontexty/capek.md)
+- [CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu](./kontexty/cimrman.md)
+- [CIMRMAN, Jára - SMOLJAK, Ladislav. Vyšetřování ztráty třídní knihy](./kontexty/cimrman.md)
 - DOSTOJEVSKIJ, Fjodor Michailovič. Zločin a trest
 - DOYLE, Arthur Conan. Poslední poklona Sherlocka Holmese
-- DYK, Viktor. Krysař
+- [DYK, Viktor. Krysař](./kontexty/dyk.md)
 - ECO, Umberto. Jméno růže
 - GOGOL, Nikolaj Vasiljevič. Revizor
 - [GOLDONI, Carlo. Sluha dvou pánů](./kontexty/goldoni.md)
-- HAŠEK, Jaroslav. Osudy dobrého vojáka Švejka za světové války, I. díl
+- [HAŠEK, Jaroslav. Osudy dobrého vojáka Švejka za světové války, I. díl](./kontexty/hasek.md)
 - [MOLIÈRE. Lakomec](./kontexty/moliere.md)
 - [MRŠTÍK, Alois - MRŠTÍK, Vilém. Maryša](./kontexty/mrstikove.md)
 - NABOKOV, Vladimir. Lolita
