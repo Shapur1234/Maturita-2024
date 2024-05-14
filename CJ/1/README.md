@@ -35,6 +35,6 @@
 - [ORWELL, George. Farma zvířat. Přel. Gabriel Gössel. Praha: Práce, 1991](./kontexty/orwell.md)
 - REMARQUE, Erich Maria. Na západní frontě klid
 - STRUGACKIJ, Arkadij a STRUGACKIJ, Boris. Piknik u cesty
-- TOLKIEN, John Ronald Reuel. Hobit. Přel. František Vrba. Praha: Odeon, 1991
-- VERNE, Jules. Ocelové město
+- [TOLKIEN, John Ronald Reuel. Hobit. Přel. František Vrba. Praha: Odeon, 1991](./kontexty/tolkien.md)
+- [VERNE, Jules. Ocelové město](./kontexty/verne.md)
 - [ZEYER, Julius. Tři legendy o krucifixu](./kontexty/zeyer.md)
