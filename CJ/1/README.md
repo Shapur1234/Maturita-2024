@@ -23,13 +23,13 @@
 - DOSTOJEVSKIJ, Fjodor Michailovič. Zločin a trest
 - DOYLE, Arthur Conan. Poslední poklona Sherlocka Holmese
 - [DYK, Viktor. Krysař](./kontexty/dyk.md)
-- ECO, Umberto. Jméno růže
+- [ECO, Umberto. Jméno růže](./kontexty/eco.md)
 - GOGOL, Nikolaj Vasiljevič. Revizor
 - [GOLDONI, Carlo. Sluha dvou pánů](./kontexty/goldoni.md)
 - [HAŠEK, Jaroslav. Osudy dobrého vojáka Švejka za světové války, I. díl](./kontexty/hasek.md)
 - [MOLIÈRE. Lakomec](./kontexty/moliere.md)
 - [MRŠTÍK, Alois - MRŠTÍK, Vilém. Maryša](./kontexty/mrstikove.md)
-- NABOKOV, Vladimir. Lolita
+- [NABOKOV, Vladimir. Lolita](./kontexty/nabokov.md)
 - [NERUDA, Jan. Malostranské povídky](./kontexty/neruda.md)
 - [ORWELL, George. 1984](./kontexty/orwell.md)
 - [ORWELL, George. Farma zvířat. Přel. Gabriel Gössel. Praha: Práce, 1991](./kontexty/orwell.md)
