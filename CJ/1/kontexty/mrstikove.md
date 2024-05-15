@@ -10,10 +10,11 @@
 
 ## Literárně / obecně kulturní kontext
 
+- Zaměřovali se na realistický, až naturalistický popis života na venkově
 - Rekousko-Uhersko docela liberální stát, hospodářsky volný...
 - Přelom 19. a 20. století - Nárůst radikalizace, anarchistické a dekadentní tendence, proces s omladinou...
 - Česká moderna, dále dekadenti a katoličti orientovaní autoři
-- Provázanost s Evropskou literaturou - Odklon od realismu
+  - Provázanost s Evropskou literaturou - Odklon od realismu
 
 ## Díla
 

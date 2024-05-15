@@ -13,7 +13,7 @@
 ## Literárně / obecně kulturní kontext
 
 - Generace ruchovců (národní křídlo, Krásnohorská) a lumírovců (kosmopolitní křídlo)
-- Zeyer přední lumírovecx (dále Vrchlický, Sládek)
+- Zeyer přední lumírovec (dále Vrchlický, Sládek)
 - 70. a 80. léta 19. století - Odvolání Bacha, rozvlonění cenzury, Rakousko uherské vyrovnání, z RU se postupně stává +- ústavní monarchie
 - "Generace Národního divadla"
 - Doba rukopisných bojů

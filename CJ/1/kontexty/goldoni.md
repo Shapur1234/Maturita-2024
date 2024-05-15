@@ -26,5 +26,5 @@
   - Sluha, aby si více vydělal, slouží dvoum pánům a tím se dostává do svízelných situací
   - Literární druh - Drama (próza)
   - Žánr - Komedie
-  - Kompoziční výstavba - Chronologická, dělení na 3 dějství
+  - Kompoziční výstavba - Chronologická, dělení na 3 dějství (respektive součást rukopisu který napsal Bilbo a pak doplnil Frodo a Sam o Pána prstenů)
 - Poprask na laguně - Komedie
