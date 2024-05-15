@@ -20,11 +20,11 @@
 - [ČAPEK, Karel. Válka s mloky](./kontexty/capek.md)
 - [CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu](./kontexty/cimrman.md)
 - [CIMRMAN, Jára - SMOLJAK, Ladislav. Vyšetřování ztráty třídní knihy](./kontexty/cimrman.md)
-- DOSTOJEVSKIJ, Fjodor Michailovič. Zločin a trest
+- [DOSTOJEVSKIJ, Fjodor Michailovič. Zločin a trest](./kontexty/dostojevskij.md)
 - DOYLE, Arthur Conan. Poslední poklona Sherlocka Holmese
 - [DYK, Viktor. Krysař](./kontexty/dyk.md)
 - [ECO, Umberto. Jméno růže](./kontexty/eco.md)
-- GOGOL, Nikolaj Vasiljevič. Revizor
+- [GOGOL, Nikolaj Vasiljevič. Revizor](./kontexty/gogol.md)
 - [GOLDONI, Carlo. Sluha dvou pánů](./kontexty/goldoni.md)
 - [HAŠEK, Jaroslav. Osudy dobrého vojáka Švejka za světové války, I. díl](./kontexty/hasek.md)
 - [MOLIÈRE. Lakomec](./kontexty/moliere.md)
@@ -34,7 +34,7 @@
 - [ORWELL, George. 1984](./kontexty/orwell.md)
 - [ORWELL, George. Farma zvířat. Přel. Gabriel Gössel. Praha: Práce, 1991](./kontexty/orwell.md)
 - REMARQUE, Erich Maria. Na západní frontě klid
-- STRUGACKIJ, Arkadij a STRUGACKIJ, Boris. Piknik u cesty
+- [STRUGACKIJ, Arkadij a STRUGACKIJ, Boris. Piknik u cesty](./kontexty/strugackijove.md)
 - [TOLKIEN, John Ronald Reuel. Hobit. Přel. František Vrba. Praha: Odeon, 1991](./kontexty/tolkien.md)
 - [VERNE, Jules. Ocelové město](./kontexty/verne.md)
 - [ZEYER, Julius. Tři legendy o krucifixu](./kontexty/zeyer.md)
