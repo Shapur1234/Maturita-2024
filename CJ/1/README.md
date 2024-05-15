@@ -21,7 +21,7 @@
 - [CIMRMAN, Jára - SMOLJAK, Ladislav - SVĚRÁK, Zdeněk. Dobytí severního pólu](./kontexty/cimrman.md)
 - [CIMRMAN, Jára - SMOLJAK, Ladislav. Vyšetřování ztráty třídní knihy](./kontexty/cimrman.md)
 - [DOSTOJEVSKIJ, Fjodor Michailovič. Zločin a trest](./kontexty/dostojevskij.md)
-- DOYLE, Arthur Conan. Poslední poklona Sherlocka Holmese
+- [DOYLE, Arthur Conan. Poslední poklona Sherlocka Holmese](./kontexty/doyle.md)
 - [DYK, Viktor. Krysař](./kontexty/dyk.md)
 - [ECO, Umberto. Jméno růže](./kontexty/eco.md)
 - [GOGOL, Nikolaj Vasiljevič. Revizor](./kontexty/gogol.md)
@@ -33,7 +33,7 @@
 - [NERUDA, Jan. Malostranské povídky](./kontexty/neruda.md)
 - [ORWELL, George. 1984](./kontexty/orwell.md)
 - [ORWELL, George. Farma zvířat. Přel. Gabriel Gössel. Praha: Práce, 1991](./kontexty/orwell.md)
-- REMARQUE, Erich Maria. Na západní frontě klid
+- [REMARQUE, Erich Maria. Na západní frontě klid](./kontexty/remarque.md)
 - [STRUGACKIJ, Arkadij a STRUGACKIJ, Boris. Piknik u cesty](./kontexty/strugackijove.md)
 - [TOLKIEN, John Ronald Reuel. Hobit. Přel. František Vrba. Praha: Odeon, 1991](./kontexty/tolkien.md)
 - [VERNE, Jules. Ocelové město](./kontexty/verne.md)
