@@ -1,6 +1,6 @@
 # IVT
 
-Otázky k [maturitě z IVT](./otazky.pdf)
+Výpisky k [maturitě z IVT](./otazky.pdf)
 
 ### Otázky
 

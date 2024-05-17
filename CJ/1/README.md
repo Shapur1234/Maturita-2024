@@ -3,8 +3,9 @@
 ## Materiály
 
 - [Struktura maturitní otázky](./materialy/struktura_maturitni_otazky.pdf)
-- [Slovníček pojmů](./materialy/slovnicek_pojmu.pdf)
+- [Rozbor ústní zkoušky](./materialy/rozbor_ustni_zkousky.pdf)
 - [Rozbor neuměleckého textu](./materialy/rozbor_neumeleckeho_textu.pdf)
+- [Slovníček pojmů](./materialy/slovnicek_pojmu.pdf)
 
 ## Kontexty
 
