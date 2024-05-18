@@ -18,7 +18,7 @@
 ## Díla
 
 - Klabzubova jedenáctka
-  - Otec Klabzub odělá ze svých jedenácti synů špičkový fotbalový tým
+  - Otec Klabzub udělá ze svých jedenácti synů špičkový fotbalový tým
   - Literární druh - Epika (próza)
   - Žánr - Humoristický román
   - Kompoziční výstavba - Chronoloigická, členění na kapitoly
