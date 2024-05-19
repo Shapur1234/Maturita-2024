@@ -7,7 +7,7 @@
 - Vystudoval gymnázium, filozofickou fakultu
 - Nebojoval v 1. světové (zdravotní důvody), přesto ho hluboce poznamenala - Pacifista
 - Vrchol za 1. republiky - Redaktor lidových novin
-- Pátečníci - Stýkal se mimo jiné s TGM, Benešem, Peroutka
+- Pátečníci - Stýkal se mimo jiné s TGM, Benešem, Peroutkou
 - Za 2. republiky deziluzován a kritizován, neprchl z ČSR, zemřel na zápal plic (gestapo ho chtělo zatknou)
 
 ## Literárně / obecně kulturní kontext
