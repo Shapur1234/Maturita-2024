@@ -4,4 +4,3 @@ Výpisky k maturitě 2024
 
 - [Matematika](./Matematika/README.md)
 - [IVT](./IVT/README.md)
-- [Čeština](./CJ/README.md)
